@@ -17,7 +17,7 @@
 |-------------|------------|-------|-------|
 | Supported?  | Yes        | No    | No    |
 | Rating      | 4          | 0     | 0     |
-| Time needed | 1 minutes | N/A   | N/A   |
+| Time needed | < 20 seconds | N/A   | N/A   |
 
 ## Getting Started
 To start using the tool:
