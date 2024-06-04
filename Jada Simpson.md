@@ -7,7 +7,7 @@
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
 | Tool 1 DeepAI   |       4       |
-| Tool 2  Microsoft Bing AI Generator  |      3        |
+| Tool 2  Microsoft Bing AI Generator  |      4        |
 
 
 # Round 1: DeepAI
