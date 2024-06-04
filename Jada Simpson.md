@@ -8,7 +8,6 @@
 |-----------|--------------|
 | Tool 1 Chat GPT    |       4       |
 | Tool 2  Midjourney  |      3        |
-| Tool 3 Heygen    |        4      |
 
 
 # Round 1: Chat gpt
