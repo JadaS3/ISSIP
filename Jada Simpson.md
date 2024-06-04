@@ -22,8 +22,8 @@
 ## Getting Started
 To start using the tool:
 1. Go to [https://deepai.org/chat/text-generator.com ](https://deepai.org/chat/text-generator)
-2. Click 'Login' and made a new account
-3. Click 'New chat' and start prompting
+2. Scroll down to see a "Chat with AI" box where you can insert a prompt 
+3. Type prompt and press "Go" 
 
 ## Prompts
 
