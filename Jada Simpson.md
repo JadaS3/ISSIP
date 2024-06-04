@@ -21,7 +21,7 @@
 
 ## Getting Started
 To start using the tool:
-1. Go to https://chat.openai.com/
+1. Go to [https://deepai.org/chat/text-generator.com ](https://deepai.org/chat/text-generator)
 2. Click 'Login' and made a new account
 3. Click 'New chat' and start prompting
 
