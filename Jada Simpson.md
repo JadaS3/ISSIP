@@ -7,11 +7,11 @@
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
 | Tool 1 DeepAI   |       4       |
-| Tool 2  Microsoft Bing AI  |      3        |
+| Tool 2  Microsoft Bing AI Generator  |      3        |
 
 
 # Round 1: DeepAI
-[DeepAI](https://deepai.org/chat/text-generator) is an online AI tool that primarily generates text in response to user inputs. As the name implies, it is designed to assist with conversational tasks, providing a versatile and user-friendly interface. While its main focus is on text generation, it can also handle a wide range of queries and topics, offering contextual and coherent responses. Currently, the tool does not generate images or videos.
+[DeepAI](https://deepai.org/chat/text-generator) is an online AI text tool generator that provides content creation through text. It produces text through the users instructions with functions such as text generation, regenerating responses and completing sentences. As the name implies, it dives deeper into certain AI chat modes such as math, poetry,story telling, proof reading, song recommendation, debating and trasnlating. It becomes a conversational generator tool while providing content creation for it's users. Currently, the tool does not generate images or videos.
 
 | Media       | Text       | Image | Video |
 |-------------|------------|-------|-------|
