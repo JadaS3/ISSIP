@@ -6,7 +6,7 @@
 
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
-| Tool 1 Chat GPT    |       4       |
+| Tool 1 DeepAI   |       4       |
 | Tool 2  Midjourney  |      3        |
 
 
