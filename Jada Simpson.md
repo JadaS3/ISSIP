@@ -7,10 +7,10 @@
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
 | Tool 1 DeepAI   |       4       |
-| Tool 2  Midjourney  |      3        |
+| Tool 2  Microsoft Bing AI  |      3        |
 
 
-# Round 1: Chat gpt
+# Round 1: DeepAI
 [Chat gpt](https://chat.openai.com/) is an online AI tool that primarily generates text in response to user inputs. As the name implies, it is designed to assist with conversational tasks, providing a versatile and user-friendly interface. While its main focus is on text generation, it can also handle a wide range of queries and topics, offering contextual and coherent responses. Currently, the tool does not generate images or videos.
 
 | Media       | Text       | Image | Video |
