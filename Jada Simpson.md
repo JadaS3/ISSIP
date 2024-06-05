@@ -108,7 +108,7 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 *Image Prompt #1*:
 *“Create a fitness tracker as a service innovation.”
 
->![Prompt1](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt1.jpg)
+>![Prompt1](https://th.bing.com/th/id/OIG2.JYgtyzRBmm0JW88uoDnk?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn) 
 
 There is only a watch 
 
