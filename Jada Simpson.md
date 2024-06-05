@@ -117,9 +117,9 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 *Image Prompt #2*:
 * “Create a fitness tracker used by students as a service innovation”
 >![prompt2](https://th.bing.com/th/id/OIG1.jJAVSLah3_K67aF5P_20?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->[prompt 2](https://th.bing.com/th/id/OIG1.EX59ya19Vv..P472lyHD?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->[prompt 2](https://th.bing.com/th/id/OIG1.6kcg7RNUev0NzfVU6.zG?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->[prompt 2](https://th.bing.com/th/id/OIG1.ydJcnwB01TUhXmqplvf4?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![prompt 2](https://th.bing.com/th/id/OIG1.EX59ya19Vv..P472lyHD?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![prompt 2](https://th.bing.com/th/id/OIG1.6kcg7RNUev0NzfVU6.zG?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![prompt 2](https://th.bing.com/th/id/OIG1.ydJcnwB01TUhXmqplvf4?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
 
 
 *Image Prompt #3*:
