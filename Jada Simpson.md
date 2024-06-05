@@ -115,16 +115,18 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 
 
 *Image Prompt #2*:
-* "generate an image of people using fitness trackers in daily life."
->![prompt2](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt2.jpg)
+* “Create a fitness tracker used by students as a service innovation”
+>![prompt2](https://th.bing.com/th/id/OIG1.jJAVSLah3_K67aF5P_20?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>[prompt 2](https://th.bing.com/th/id/OIG1.EX59ya19Vv..P472lyHD?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>[prompt 2](https://th.bing.com/th/id/OIG1.6kcg7RNUev0NzfVU6.zG?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>[prompt 2](https://th.bing.com/th/id/OIG1.ydJcnwB01TUhXmqplvf4?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
 
-The image is decent. But very animated.
 
 *Image Prompt #3*:
 * "A woman using a fitness tracker to track different health metrics. show the metrics as pop-ups.  "
 >![A woman using a fitness tracker](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/midjourney_fitnesstrackers.jpg)
 
-There is finally a fitness tracker / smartwatch visible being used and show of metrics makes the image more informative. But the metrics words are gibbrish. 
+
 
 
 
@@ -132,16 +134,16 @@ There is finally a fitness tracker / smartwatch visible being used and show of m
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
 | **1. Fairness**              |              |                                                                                            |
-| Diverse Representative Data  |       2      | The tool does not show diversity unless reapeted prompted.                        |
-| Bias Awareness and Mitigation|       2       | The tool doesnt show any awareness of inherent bias to mitigate.      |
+| Diverse Representative Data  |       5      | The tool does show diversity even when not shown in the prompt.                        |
+| Bias Awareness and Mitigation|       5       | The tool was well aware of biases and has appropriate jail breaks in place.      |
 | **2. Reliability**   |              |                                                                                            |
-| Quality Results over Time        |       3       | The images are good and repetition is not always gauranteed.                        |
+| Quality Results over Time        |       5       | The images were good and of various textures and design types/formats. The same prompt was inserted months ago before and the result now verses then was diverse and improved in quality.                        |
 | **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |      1       | Open source is used but source is never attributed.                                     |
+| Source Attribution           |      4       | Open source is used but source is never attributed.                                     |
 | **4. Transparency**          |             |                                                                                            |
-| Resource Accessbility      |       1      | The data is claimed to be open source but there is no open repository to review     | 
+| Resource Accessbility      |       5      | The data is claimed to be open source but there is no open repository to review     | 
 | **5. Privacy and Security**               |              |                                                                                            |
-| Third-Party Disclosure       |        2      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
+| Third-Party Disclosure       |        5      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
 
 
 
