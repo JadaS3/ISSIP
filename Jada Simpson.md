@@ -7,7 +7,7 @@
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
 | Tool 1 DeepAI   |       3       |
-| Tool 2  Microsoft Bing AI Generator  |      4        |
+| Tool 2  Microsoft Bing AI Image Generator  |      4        |
 
 
 # Round 1: DeepAI
@@ -25,7 +25,7 @@ To start using the tool:
 2. Scroll down to see a "Chat with AI" box where you can insert a prompt 
 3. Type prompt and press "Go" 
 
-## Prompts (I only tested out the text generator for this AI platform)
+## Prompts (Text Generator)
 
 *Prompt #1*: 
 * "Explain why a fitness tracker is a great service innovation"
@@ -79,15 +79,15 @@ Output:
 | **4. Transparency**          |             |                                                                                            |
 | Resource Accessbility      |       3       | As far as resources are concenred, DeepAI does not provide a large in depth range of resources such as an FAQ or a user community. If it does provide it, the resources relating to privacy policy, cookie settings, terms of service are challenging to locate making the transparency of the platform difficult to determine.      | 
 | **5. Privacy and Security**               |              |                                                                                            |
-| Third-Party Disclosure       |        3      | ChatGPT maintains a high level of transparency and security regarding third-party disclosure. In its public SOC 2 report, available here https://openai.com/security/, it outlines comprehensive security policies and practices. Moreover, on its Security page, accessible here https://openai.com/security/, ChatGPT explicitly states its commitment to safeguarding user data and refrains from sharing it with third parties. Users retain full control over their information through features like the Infobase, as outlined here. Additionally, ChatGPT provides a bug reporting portal to address any potential security concerns promptly.                       |
+| Third-Party Disclosure       |        2      | DeepAI does not maintain a high level of transparency and security regarding third-party disclosure. It does not display on the page where information regarding the policies, privacy and practices of their secuirty system are located. It is lacking transparency in this are and does not include follow up pages for additional information about the site. Additionally, there is not  section that includes users expressing concerns with using the platform.                      |
                             
 
 
-## Overall Rating: 4/5
-There was an issue of hallucination if the prompts are continuously changed.
+## Overall Rating: 3/5
+Although it provides multiple modes and options for use of AI in different capacities, there can be an issue in it's transparency, privacy and security policy on it's platform.
 
-# Round 2: Midjourney
-[Midjourney](https://www.midjourney.com
+# Round 2: Microsoft Bing AI Image Generator 
+[Microsoft Bing AI](https://www.bing.com/images/create)
 ) is an online AI tool that **generates images** in response to user prompts. As of now the tool is paid tool.
 
 | Media       | Text       | Image      | Video |
@@ -143,21 +143,4 @@ There is finally a fitness tracker / smartwatch visible being used and show of m
 | Third-Party Disclosure       |        2      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
 
 
-# Round 3: Hey gen
-[Hey gen](https://www.heygen.com) is an online AI tool that **generates videos** in response to user prompts. As of now the tool has limited free usage.
 
-| Media       | Text       | Image      | Video |
-|-------------|------------|------------|-------|
-| Supported?  | No        | No       | Yes   |
-| Rating      | 0          |           | 5     |
-| Time needed | N/A | N/A | 10 Minutes   |
-
-## Getting Started
-To start using the tool:
-1. Go to https://www.heygen.com
-2. Create an account
-3. Start with selected an avatar, templete and elements for the video. Script can be generated using Chat gpt
-4. Once all are set, select submit 
-
-* Output
-[Watch the fitness tracker video]https://app.heygen.com/share/a3e1ad7bf57b4f4da9346f73fae570ff
