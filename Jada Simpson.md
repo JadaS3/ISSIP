@@ -142,11 +142,13 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 | **2. Reliability**   |              |                                                                                            |
 | Quality Results over Time        |       5       | The images were good and of various textures and design types/formats. The same prompt was inserted months ago before and the result now verses then was diverse and improved in quality.                        |
 | **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |      4       | Open source is used but source is never attributed.                                     |
+| Source Attribution           |      4       | Open source is used but source is never attributed. It mainly states that it is AI generated.                                     |
 | **4. Transparency**          |             |                                                                                            |
-| Resource Accessbility      |       5      | The data is claimed to be open source but there is no open repository to review     | 
+| Resource Accessbility      |       5      | Microsoft Bing AI provides a range of resources, including a user community for asking questions, content policy, standard Terms of Use/Service, Privacy Policy, and Cookie Settings.          | 
 | **5. Privacy and Security**               |              |                                                                                            |
-| Third-Party Disclosure       |        5      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
+| Third-Party Disclosure       |        4      | Microsoft Bing AI maintains a level of transparency and security regarding third-party disclosure. Moreover, it explicitly has certain pages such as Consumer Health Privacy, SafeSearch and a privacy settingssection to safeguarding user data and refrains from sending ads using user information for ads.                        |
+                            
+
 
 
 
