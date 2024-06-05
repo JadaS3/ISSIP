@@ -15,9 +15,9 @@
 
 | Media       | Text       | Image | Video |
 |-------------|------------|-------|-------|
-| Supported?  | Yes        | No    | No    |
-| Rating      | 4          | 0     | 0     |
-| Time needed | < 20 seconds | N/A   | N/A   |
+| Supported?  | Yes        | Yes   | Yes    |
+| Rating      | 3          | 2     | 3     |
+| Time needed | < 10 seconds | <5 seconds   |  <25 seconds  |
 
 ## Getting Started
 To start using the tool:
@@ -79,7 +79,7 @@ Output:
 | **4. Transparency**          |             |                                                                                            |
 | Resource Accessbility      |       3       | As far as resources are concenred, DeepAI does not provide a large in depth range of resources such as an FAQ or a user community. If it does provide it, the resources relating to privacy policy, cookie settings, terms of service are challenging to locate making the transparency of the platform difficult to determine.      | 
 | **5. Privacy and Security**               |              |                                                                                            |
-| Third-Party Disclosure       |        5      | ChatGPT maintains a high level of transparency and security regarding third-party disclosure. In its public SOC 2 report, available here https://openai.com/security/, it outlines comprehensive security policies and practices. Moreover, on its Security page, accessible here https://openai.com/security/, ChatGPT explicitly states its commitment to safeguarding user data and refrains from sharing it with third parties. Users retain full control over their information through features like the Infobase, as outlined here. Additionally, ChatGPT provides a bug reporting portal to address any potential security concerns promptly.                       |
+| Third-Party Disclosure       |        3      | ChatGPT maintains a high level of transparency and security regarding third-party disclosure. In its public SOC 2 report, available here https://openai.com/security/, it outlines comprehensive security policies and practices. Moreover, on its Security page, accessible here https://openai.com/security/, ChatGPT explicitly states its commitment to safeguarding user data and refrains from sharing it with third parties. Users retain full control over their information through features like the Infobase, as outlined here. Additionally, ChatGPT provides a bug reporting portal to address any potential security concerns promptly.                       |
                             
 
 
