@@ -110,7 +110,8 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 
 >![Prompt1](https://th.bing.com/th/id/OIG2.JYgtyzRBmm0JW88uoDnk?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
 >![Prompt 1](https://th.bing.com/th/id/OIG2.w5jb2yLVTkbggYtgujiK?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->![Prompt 1](https://th.bing.com/th/id/OIG2.0Nmggys0srx9ghZr2ZfF?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn) 
+>![Prompt 1](https://th.bing.com/th/id/OIG2.0Nmggys0srx9ghZr2ZfF?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![Prompt 1](https://th.bing.com/th/id/OIG2.AXdw1oN2HSAIiBHUdPwE?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
 
 
 *Image Prompt #2*:
