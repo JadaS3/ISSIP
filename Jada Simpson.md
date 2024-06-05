@@ -7,7 +7,7 @@
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
 | Tool 1 DeepAI   |       3       |
-| Tool 2  Microsoft Bing AI Image Generator  |      4        |
+| Tool 2  Microsoft Bing AI Image Generator  |      5        |
 
 
 # Round 1: DeepAI
@@ -66,7 +66,7 @@ Output:
 Output:
 > A fitness tracker is a great service innovation for Asians because it caters to the growing health-consciousness and wellness trends in the region. In Asia, there is a strong emphasis on self-care and personal grooming, and a fitness tracker allows individuals to monitor their daily activity levels, sleep patterns, and nutrition intake, providing a holistic view of their overall well-being. Additionally, many Asian cultures place a strong value on social harmony and family ties, and a fitness tracker can be a useful tool for monitoring and managing chronic health conditions, such as diabetes or hypertension, which are common among Asian populations. By providing a convenient and accessible way to track and manage one's health, fitness trackers have become a popular service innovation that resonates with the values and lifestyles of many Asian consumers.
 
-## Ethics Rating: 5/5
+## Ethics Rating: 3/5
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
 | **1. Fairness**              |              |                                                                                            |
@@ -87,27 +87,26 @@ Output:
 Although it provides multiple modes and options for use of AI in different capacities, there can be an issue in it's transparency, privacy and security policy on it's platform.
 
 # Round 2: Microsoft Bing AI Image Generator 
-[Microsoft Bing AI](https://www.bing.com/images/create)
-) is an online AI tool that **generates images** in response to user prompts. As of now the tool is paid tool.
+[Microsoft Bing AI](https://www.bing.com/images/create) is an online AI tool that **generates images** in response to user prompts. The tool is free to use of your email when you create an account.
 
 | Media       | Text       | Image      | Video |
 |-------------|------------|------------|-------|
 | Supported?  | No        | Yes       | No    |
-| Rating      | 0          | 3          | 0     |
-| Time needed | N/A | 10 minutes | N/A   |
+| Rating      | 0          | 5          | 0     |
+| Time needed | N/A | 1 - 10+ minutes | N/A   |
 
 ## Getting Started
 To start using the tool:
-1. Go to https://www.midjourney.com
-2. Click 'Join the Beta' and make a new account (Signup with Google didn't work)
-3. Read the "getting started page"
-4. Use any "Newbie channel"
-5. Use /imagine to start prompting
+1. Go to https://www.bing.com/images/create
+2. Type in your prompt then Click 'Join and Create' and it will have you login/create an account if you have not already (any email will work)
+3. The page will then lead to the Image Generator
+
+Each user has 15 lightning bolts each day that allow the generator to produce the image more quickly. With bolts, the generator takes 1-2 minutes or less to produce and image. Without bolts the image can take 5-10+ minutes depending on the prompt. 
 
 ## Image Prompts
 
 *Image Prompt #1*:
-"generate an image of fitness trackers used as a service innovation ".
+*“Create a fitness tracker as a service innovation.”
 
 >![Prompt1](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt1.jpg)
 
