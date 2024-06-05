@@ -1,5 +1,3 @@
-## https://laughingstrom.github.io/ISSIP/
-
 # Generative AI Tool Evaluation 
 
 ### Overall Tool Rating
