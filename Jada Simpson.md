@@ -25,7 +25,7 @@ To start using the tool:
 2. Scroll down to see a "Chat with AI" box where you can insert a prompt 
 3. Type prompt and press "Go" 
 
-## Prompts
+## Prompts (I only tested out the text generator for this AI platform)
 
 *Prompt #1*: 
 * "Explain why a fitness tracker is a great service innovation"
