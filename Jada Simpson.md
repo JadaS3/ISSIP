@@ -125,9 +125,9 @@ Each user has 15 lightning bolts each day that allow the generator to produce th
 *Image Prompt #3*:
 * "a fitness tracker used by a multiracial group of people to track health, bodily functions that are displayed on the tracker."
 >![Prompt3](https://th.bing.com/th/id/OIG4.nKp0hd0TAs.lOKEiL_vk?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->!(Prompt3](https://th.bing.com/th/id/OIG4.myL.BuTMI0XgE4Ul5nsf?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->![Prompt3](https://th.bing.com/th/id/OIG4.wntoUlDRh6CkRwwMgcF.?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
->![Prompt3](https://th.bing.com/th/id/OIG4.2qppI5usZ0D_qVk0UOor?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![Prompt 3](https://th.bing.com/th/id/OIG4.myL.BuTMI0XgE4Ul5nsf?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![Prompt 3](https://th.bing.com/th/id/OIG4.wntoUlDRh6CkRwwMgcF.?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
+>![Prompt 3](https://th.bing.com/th/id/OIG4.2qppI5usZ0D_qVk0UOor?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn)
 
 
 
